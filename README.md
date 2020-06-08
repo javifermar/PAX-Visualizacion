@@ -1,4 +1,4 @@
-# PAX-Visualizacion
+# PAX-Visualización de Datos
 
 Este repositorio contiene los fuentes y la información sobre las PEC2 - PEC4 de la asignatura Visualización de Datos del máster de Data Science de la UOC.
 
