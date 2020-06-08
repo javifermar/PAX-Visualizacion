@@ -7,7 +7,7 @@ Dentro de las carpetas PEC2 y PEC4 encontraremos con los siguientes ficheros.
 
 •	PEC2
 
-  •	Fichero Tableau con la visualización: VisualizacionTableau-PEC2.twbx
+  --> •	Fichero Tableau con la visualización: VisualizacionTableau-PEC2.twbx
   
   •	Fichero R para el preprocesamiento de datos: CodigoR-PEC2.R
   
