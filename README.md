@@ -10,7 +10,6 @@ Dentro de las carpetas PEC2 y PEC4 encontraremos con los siguientes ficheros.
   •	Fichero R para el preprocesamiento de datos: CodigoR-PEC2.R
   
   •	Fichero de datos original: pax_all_agreements_data.xlsx
-  
   •	Fichero después de la transformación: pax_agreements.xlsx
 
 •	PEC4
